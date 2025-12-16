@@ -20,7 +20,7 @@ window.onload = function () {
           let dominios = pronoun[i] + adj[j] + noun[k] + dom[p];
           console.log(dominios);
          
-           dominiosGenerados += dominio + '<br>';
+           dominiosGenerados += dominios + '<br>';
         }
       }
     }
